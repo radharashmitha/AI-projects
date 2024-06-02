@@ -31,12 +31,7 @@ Each project may have specific additional dependencies and setup instructions, w
 
 ## Usage
 
-Navigate to the project directory you're interested in and follow the instructions provided in the project's README file. Here's an example of running the Handwritten Digit Recognition project:
-
-```bash
-cd Handwritten-Digit-Recognition
-python train.py
-```
+Navigate to the project directory you're interested in and follow the instructions provided in the project's README file. 
 
 ## Contributing
 
